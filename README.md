@@ -6,9 +6,7 @@ THIS IS AN OPEN SOURCE ITEM SO IT DOESN'T HAVE A .SLN FILE, IT'S JUST A SOURCE D
 
 ***
   <p align="center">
-    <a href="https://discord.com/users/866061079209967677">
-        <img title="Sarnax discord" alt="SarnaxLii's discord" src="https://discord.c99.nl/widget/theme-3/943374631644045363.png"/>
-    </a>
+<a href="https://discord.com/users/866061079209967677"><img src="https://lanyard-profile-readme.vercel.app/api/866061079209967677?bg=transparentd&amp;borderRadius=8px&amp;hideDiscrim=true" alt="Discord profile"></a>
 </p>
 
 
