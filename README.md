@@ -6,13 +6,13 @@ THIS IS AN OPEN SOURCE ITEM SO IT DOESN'T HAVE A .SLN FILE, IT'S JUST A SOURCE D
 
 ***
   <p align="center">
-    <a href="https://discord.com/users/943374631644045363">
+    <a href="https://discord.com/users/866061079209967677">
         <img title="Sarnax discord" alt="SarnaxLii's discord" src="https://discord.c99.nl/widget/theme-3/943374631644045363.png"/>
     </a>
 </p>
 
 
-### 💬・DISCORD : [HEX COMMUNITY](https://discord.gg/7vVb9g7FGT) 
+### 💬・DISCORD : [Paris COMMUNITY](https://discord.gg/56) 
 
 
 * `👋 SELL CHEATING PRIVATE / SPOOFER / SOURCE CODE / ETC `
@@ -21,14 +21,7 @@ THIS IS AN OPEN SOURCE ITEM SO IT DOESN'T HAVE A .SLN FILE, IT'S JUST A SOURCE D
 * ` SAFE 100% IF BANNED = REFUND MONEY`
 * ` WE GIVE YOU THE HIGHEST LEVEL OF SECURITY AND PRIVACY , DON'T WORRY`
 
-🌐・  **Website** : https://sarnax.xyz
-
 🐵・**We** have a backup server base and many main servers and we are **LEGIT**
-
- ```sh-session
-MY CHEATS , YOU CAN PLAY ON THE MAIN ACCOUT. IT WON"T GET YOU BANNED :) / DM TO BUY 
-```        
-***
 
 
 
